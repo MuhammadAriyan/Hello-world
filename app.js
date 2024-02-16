@@ -1,1 +1,1 @@
-console.log("MUHAMMAD ARIYAN");
+console.log("MUHAMMAD ARYAN");
